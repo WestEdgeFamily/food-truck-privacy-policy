@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Food Truck Finder App</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #e74c3c;
+            border-bottom: 3px solid #e74c3c;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            padding-left: 10px;
+            border-left: 4px solid #e74c3c;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 25px;
+        }
+        .last-updated {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            border-left: 4px solid #3498db;
+        }
+        .permission-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+            border: 1px solid #e9ecef;
+        }
+        .contact-info {
+            background-color: #e8f5e8;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 25px 0;
+            border-left: 4px solid #27ae60;
+        }
+        .important-note {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+        ul {
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .app-info {
+            background-color: #f1f3f4;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy - Food Truck Finder App</h1>
+        
+        <div class="last-updated">
+            <strong>Last updated:</strong> July 18, 2025<br>
+            <strong>Effective date:</strong> July 18, 2025
+        </div>
+
+        <div class="app-info">
+            <strong>App Name:</strong> Food Truck Finder<br>
+            <strong>Package Name:</strong> com.foodtrucks.app.food_truck_app<br>
+            <strong>Developer:</strong> WestEdge Family<br>
+            <strong>Contact:</strong> support@foodtruckfinder.com
+        </div>
+
+        <h2>Overview</h2>
+        <p>This privacy policy explains how the Food Truck Finder mobile application ("the App") collects, uses, and protects your personal information, particularly regarding camera permissions required by Google Play Store policies.</p>
+
+        <h2>Camera Permission Usage</h2>
+        
+        <div class="important-note">
+            <strong>Important:</strong> This app requests camera permission ONLY for legitimate business purposes related to food truck management and customer experience.
+        </div>
+
+        <div class="permission-section">
+            <h3>Why We Need Camera Access</h3>
+            <ul>
+                <li><strong>Food Truck Business Photos:</strong> Owners can photograph their trucks, food items, and daily menus</li>
+                <li><strong>Profile Pictures:</strong> Users can take profile photos for their food truck listings</li>
+                <li><strong>Menu Documentation:</strong> Capture images of menu boards, daily specials, and food preparations</li>
+                <li><strong>Business Verification:</strong> Help verify legitimate food truck businesses through visual documentation</li>
+            </ul>
+        </div>
+
+        <h2>Data Collection and Handling</h2>
+        
+        <div class="permission-section">
+            <h3>What Data We Collect</h3>
+            <ul>
+                <li><strong>Photos:</strong> Only when you explicitly choose to take or upload them</li>
+                <li><strong>Location Data:</strong> To help customers find nearby food trucks</li>
+                <li><strong>Account Information:</strong> Name, email, business name (for food truck owners)</li>
+                <li><strong>Usage Data:</strong> App performance and crash reports (anonymous)</li>
+            </ul>
+
+            <h3>How We Protect Your Data</h3>
+            <ul>
+                <li><strong>Secure Storage:</strong> Photos stored on Cloudinary CDN with encryption</li>
+                <li><strong>No Background Access:</strong> Camera is only accessed when you actively use photo features</li>
+                <li><strong>User Control:</strong> You can delete photos and revoke permissions anytime</li>
+                <li><strong>No Third-Party Sharing:</strong> Photos are not shared with advertisers or data brokers</li>
+            </ul>
+        </div>
+
+        <h2>Permission Details</h2>
+        
+        <div class="permission-section">
+            <h3>Camera Permission (android.permission.CAMERA)</h3>
+            <ul>
+                <li><strong>When:</strong> Only when you tap camera/photo buttons in the app</li>
+                <li><strong>Purpose:</strong> Take photos for food truck business listings and profiles</li>
+                <li><strong>Storage:</strong> Photos saved only with your explicit consent</li>
+                <li><strong>Control:</strong> Can be revoked in Android Settings > Apps > Food Truck Finder > Permissions</li>
+            </ul>
+
+            <h3>Location Permissions</h3>
+            <ul>
+                <li><strong>Purpose:</strong> Find nearby food trucks and help owners share their location</li>
+                <li><strong>Background:</strong> Only when explicitly enabled for real-time truck tracking</li>
+                <li><strong>Accuracy:</strong> Approximate location sufficient for food truck finding</li>
+            </ul>
+        </div>
+
+        <h2>Your Rights and Controls</h2>
+        
+        <ul>
+            <li><strong>Revoke Permissions:</strong> Disable camera/location access in device settings</li>
+            <li><strong>Delete Photos:</strong> Remove uploaded photos from your profile anytime</li>
+            <li><strong>Account Deletion:</strong> Request complete data removal</li>
+            <li><strong>Data Export:</strong> Request a copy of your data</li>
+            <li><strong>Opt-Out:</strong> Stop location tracking or photo features</li>
+        </ul>
+
+        <h2>Data Sharing and Third Parties</h2>
+        
+        <div class="permission-section">
+            <h3>We DO NOT share your personal data with:</h3>
+            <ul>
+                <li>Advertising networks</li>
+                <li>Data brokers or analytics companies</li>
+                <li>Social media platforms (unless you explicitly share)</li>
+                <li>Any third parties for marketing purposes</li>
+            </ul>
+
+            <h3>We may share data only when:</h3>
+            <ul>
+                <li>You explicitly make your food truck listing public</li>
+                <li>Required by law or legal process</li>
+                <li>Necessary to protect our rights or user safety</li>
+                <li>With service providers under strict confidentiality (hosting, security)</li>
+            </ul>
+        </div>
+
+        <h2>Children's Privacy</h2>
+        <p>This app is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided personal information, please contact us immediately.</p>
+
+        <h2>Security Measures</h2>
+        <ul>
+            <li>Industry-standard encryption for data transmission</li>
+            <li>Secure cloud storage with access controls</li>
+            <li>Regular security audits and updates</li>
+            <li>Limited employee access to personal data</li>
+        </ul>
+
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>For privacy questions, data requests, or concerns:</p>
+            <p>
+                <strong>Email:</strong> support@foodtruckfinder.com<br>
+                <strong>Response Time:</strong> Within 48 hours<br>
+                <strong>Data Protection Officer:</strong> Available upon request
+            </p>
+        </div>
+
+        <h2>Legal Compliance</h2>
+        <p>This privacy policy complies with:</p>
+        <ul>
+            <li>Google Play Store Developer Policy</li>
+            <li>Android App Privacy Requirements</li>
+            <li>California Consumer Privacy Act (CCPA)</li>
+            <li>General Data Protection Regulation (GDPR) principles</li>
+        </ul>
+
+        <h2>Policy Updates</h2>
+        <p>We may update this policy occasionally. When we do:</p>
+        <ul>
+            <li>The "Last updated" date will be revised</li>
+            <li>Users will be notified of significant changes</li>
+            <li>Previous versions available upon request</li>
+        </ul>
+
+        <div class="important-note">
+            <p><strong>Google Play Compliance:</strong> This privacy policy specifically addresses Google Play Store requirements for apps using camera permissions and location services.</p>
+        </div>
+
+        <hr style="margin: 40px 0; border: none; border-top: 1px solid #ddd;">
+        <p style="text-align: center; color: #666; font-size: 0.9em;">
+            © 2025 Food Truck Finder App. All rights reserved.<br>
+            This policy was created for Google Play Store compliance.
+        </p>
+    </div>
+</body>
+</html>
